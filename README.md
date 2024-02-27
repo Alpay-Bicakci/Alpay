@@ -7,7 +7,7 @@
       💻 Project Management - Stakeholder Management - Requirements Engineering
 
   </pre>
-  <img src="https://i.imgur.com/ALrQfMc.gif" height="200" />
+  <img src="https://idleontoolbox.com/etc/bg_0.png" height="200" />
   <br>
   
   <h3>things I work with</h3>
